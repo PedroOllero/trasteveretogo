@@ -13,5 +13,18 @@ Clone this repository and install dependencies:
 
 ```bash
 git clone https://github.com/PedroOllero/trasteveretogo.git
-cd italian-takeaway
+cd trasteveretogo
 npm install
+
+
+### ▶️ Run the project
+
+Start the development server:
+
+```bash
+npm start
+
+Start the development server:
+
+```bash
+http://localhost:3000
