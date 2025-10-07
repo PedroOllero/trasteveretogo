@@ -1,4 +1,4 @@
-# 🍝 Italian Takeaway Restaurant Website
+# 🍝 TrastevereToGo Website
 
 A modern web application for an Italian takeaway restaurant, built with **React**, **Emotion**, and **Material UI**.  
 It features a clean, responsive design that allows users to browse dishes, customize orders, and manage their cart easily.
