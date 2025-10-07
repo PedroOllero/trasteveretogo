@@ -49,7 +49,7 @@ export const pastas: Pasta[] = [
   },
   {
     id: 14,
-    name: "Orecchiette with Broccoli Rabe",
+    name: "Orecchiette with Broccoli",
     ingredients: ["Orecchiette", "Broccoli rabe", "Garlic", "Olive oil", "Chili pepper"],
     calories: 820,
     price: 9.5,
