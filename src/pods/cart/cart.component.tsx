@@ -40,26 +40,6 @@ export const CartComponents: React.FC = () => {
         </div>
         <div>
           <Account totalAccount={totalAccount} />
-
-          <div
-            css={css`
-              display: flex;
-              flex-direction: row;
-              gap: 20px;
-            `}
-          >
-            <Button
-              variant="outlined"
-              sx={{
-                marginTop: 3,
-                padding: 2,
-                fontSize: 16,
-                width: "100%",
-              }}
-              onClick={onClickCart}
-            >
-              Hide Cart
-            </Button>
             <Button
               variant="outlined"
               sx={{
@@ -72,7 +52,6 @@ export const CartComponents: React.FC = () => {
             >
               Empty car
             </Button>
-          </div>
           <Button
             variant="contained"
             sx={{

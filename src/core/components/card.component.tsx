@@ -44,7 +44,7 @@ export const ElementCard: React.FC<Props> = (props) => {
         </Typography>
         <div
           css={css`
-            min-height: 100px;
+            min-height: 90px;
           `}
         >
           <Typography

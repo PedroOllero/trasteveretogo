@@ -18,7 +18,7 @@ export const Background: React.FC<Props> = ({ children }) => {
         background-position: center;
         background-repeat: no-repeat;
         display: grid;
-        grid-template-rows: 5vh 95vh;
+        grid-template-rows: 10vh 90vh;
         background-color: #6ece90;
 
         @media (max-width: 900px) {
